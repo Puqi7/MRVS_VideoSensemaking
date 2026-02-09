@@ -12,18 +12,50 @@
   <i>CHI 2026 </i>
 </p>
 
-
 <p align="center">
   <!-- 下面这些链接按需替换，没准备好就先留空或删掉 -->
   [🌐 Project Page](https://puqi7.github.io/MRVS_VideoSensemaking/) ·
   [📄 Paper](https://arxiv.org/abs/YOUR_PAPER_ID) ·
   [📦 Dataset](https://YOUR_DATASET_LINK) ·
-  [📊 Leaderboard](https://YOUR_LEADERBOARD_LINK) ·
-  [💻 Code](https://github.com/Puqi7/MRVS_VideoSensemaking)
+  [💻 UI demo]()
 </p>
 
 <hr/>
 
+<p>We present an abnormal video in the left side while in the right side we present a normal video from our testbed (video dataset). <p>
+
+Add two day gif here
+Add two night gif here 
+
+<hr/>
+
+<p> Events-of Interest (EoI) table <p>
+
+Add table here 
+
+<hr/>
+<p> Video Dataset <p>
+
+<p> Examples of EoI from our dataset <p>
+Add figure here 
+
+<p> Robot Captured Actor-perfromed EoI Long Videos <p>
+
+Add robot caprture figure (in the night)
+Add people controlling robot 
+
+<hr/>
+<p> Design Requriments <p>
+
+<p> MRVS System <p>
+
+Add backend figure
+Add result table 
+
+Add front-end gif 
+Add expert figures 
+
+<hr/>
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
 
