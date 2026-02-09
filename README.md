@@ -14,10 +14,10 @@
 
 <p align="center">
   <!-- 下面这些链接按需替换，没准备好就先留空或删掉 -->
-  [🌐 Project Page](https://puqi7.github.io/MRVS_VideoSensemaking/) ·
-  [📄 Paper](https://arxiv.org/abs/YOUR_PAPER_ID) ·
-  [📦 Dataset](https://YOUR_DATASET_LINK) ·
-  [💻 UI demo]()
+  <a href="https://puqi7.github.io/MRVS_VideoSensemaking/">🌐 Project Page</a> ·
+  <a href="https://arxiv.org/abs/YOUR_PAPER_ID">📄 Paper</a> ·
+  <a href="https://huggingface.co/datasets/Puqi7/MRVS_anomaly_long_video_dataset">📦 Dataset</a> ·
+  <a href="#">💻 UI demo</a>
 </p>
 
 <hr/>
@@ -55,7 +55,8 @@ Add result table
 Add front-end gif 
 Add expert figures 
 
-<hr/>
+
+
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
 
