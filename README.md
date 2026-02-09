@@ -1,77 +1,46 @@
-# Academic Project Page Template
+<!-- ========================= -->
+<!-- MRVS README Hero Section  -->
+<!-- ========================= -->
 
-> **Update (September 2025)**: This template has been modernized with better design, SEO, and mobile support. For the original version, see the [original-version branch](https://github.com/eliahuhorwitz/Academic-project-page-template/tree/original-version).
+<h1 align="center">
+  MRVS: Multi-Robot Video Sensemaking
+</h1>
 
-A clean, responsive template for academic project pages.
+<p align="center">
+  <b>A Testbed / System for Public Safety Video Sensemaking with Ground Robots</b>
+  <br/>
+  <i>CHI 2026 · George Mason University</i>
+</p>
 
+<!-- <p align="center">
+  <!-- 你可以把这些 badge 改成你想要的标签 -->
+  <img src="https://img.shields.io/badge/Task-Video%20Sensemaking-orange" />
+  <img src="https://img.shields.io/badge/Task-Multi--Video-blue" />
+  <img src="https://img.shields.io/badge/Dataset-MRVS-green" />
+  <img src="https://img.shields.io/badge/Domain-Public%20Safety-red" />
+</p>
 
-Example project pages built using this template are:
-- https://horwitz.ai/probex
-- https://vision.huji.ac.il/probegen
-- https://horwitz.ai/mother
-- https://horwitz.ai/spectral_detuning
-- https://vision.huji.ac.il/ladeda
-- https://vision.huji.ac.il/dsire
-- https://horwitz.ai/podd
-- https://dreamix-video-editing.github.io
-- https://horwitz.ai/conffusion
-- https://horwitz.ai/3d_ads/
-- https://vision.huji.ac.il/ssrl_ad
-- https://vision.huji.ac.il/deepsim
+<p align="center">
+  <img src="imgs/mrvs_logo.png" width="240" alt="MRVS logo"/>
+</p> -->
 
+<p align="center">
+  <b><span style="font-size:20px;">MRVS</span></b><br/>
+  <span style="font-size:18px;">
+    Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals
+  </span>
+</p>
 
+<p align="center">
+  <!-- 下面这些链接按需替换，没准备好就先留空或删掉 -->
+  [Project Page]( https://puqi7.github.io/MRVS_VideoSensemaking/) ·
+  [Paper](https://arxiv.org/abs/YOUR_PAPER_ID) ·
+  [Dataset](https://YOUR_DATASET_LINK) ·
+  <!-- [📊 Leaderboard](https://YOUR_LEADERBOARD_LINK) ·
+  [🛠️ Code](https://github.com/Puqi7/MRVS_VideoSensemaking) -->
+</p>
 
-## Start using the template
-To start using the template click on `Use this Template`.
-
-The template uses html for controlling the content and css for controlling the style. 
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
-
-**IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
-
-## What's New
-
-- Modern, clean design with better mobile support
-- Improved SEO with proper meta tags and structured data
-- Performance improvements (lazy loading, optimized assets)
-- More Works dropdown
-- Copy button for BibTeX citations
-- Better accessibility
-
-## Components
-
-- Teaser video
-- Image carousel
-- YouTube video embedding
-- Video carousel
-- PDF poster viewer
-- BibTeX citation
-
-## Customization
-
-The HTML file has TODO comments showing what to replace:
-
-- Paper title, authors, institution, conference
-- Links (arXiv, GitHub, etc.)
-- Abstract and descriptions  
-- Videos, images, and PDFs
-- Related works in the dropdown
-- Meta tags for SEO and social sharing
-
-### Meta Tags
-The template includes meta tags for better search engine visibility and social media sharing. These appear in the `<head>` section and help with:
-- Google Scholar indexing
-- Social media previews (Twitter, Facebook, LinkedIn)
-- Search engine optimization
-
-Create a 1200x630px social preview image at `static/images/social_preview.png`.
-
-## Tips
-
-- Compress images with [TinyPNG](https://tinypng.com)
-- Use YouTube for large videos (>10MB)  
-- Replace the favicon in `static/images/`
-- Works with GitHub Pages
+<hr/>
 
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
