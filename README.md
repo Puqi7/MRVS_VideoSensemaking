@@ -15,9 +15,9 @@
 <p align="center">
 
   <a href="https://puqi7.github.io/MRVS_VideoSensemaking/">🌐 Project Page</a> ·
-  <a href="https://arxiv.org/abs/YOUR_PAPER_ID">📄 Paper</a> ·
+  <a href="https://arxiv.org/abs/2602.08882">📄 Paper</a> ·
   <a href="https://huggingface.co/datasets/Puqi7/MRVS_anomaly_long_video_dataset">📦 Dataset</a> ·
-  <a href="#">💻 UI demo</a>
+  <a href="https://websitefrontend-jhzm.onrender.com/">💻 UI demo</a>
 </p>
 
 <hr/>
