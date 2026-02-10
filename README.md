@@ -31,7 +31,7 @@ Add two night gif here
 
 <p> Events-of Interest (EoI) table <p>
 
-<img src="static/eoitable.png" alt="EoI Table" width="800">
+<img src="static/images/eoitable.png" alt="EoI Table" width="800">
 
 <hr/>
 <p> Video Dataset <p>
