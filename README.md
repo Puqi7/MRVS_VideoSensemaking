@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <!-- 下面这些链接按需替换，没准备好就先留空或删掉 -->
+
   <a href="https://puqi7.github.io/MRVS_VideoSensemaking/">🌐 Project Page</a> ·
   <a href="https://arxiv.org/abs/YOUR_PAPER_ID">📄 Paper</a> ·
   <a href="https://huggingface.co/datasets/Puqi7/MRVS_anomaly_long_video_dataset">📦 Dataset</a> ·
