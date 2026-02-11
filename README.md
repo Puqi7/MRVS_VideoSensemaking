@@ -26,7 +26,10 @@
 
 Add two day gif here
 Add two night gif here 
-<img src="static/images/nightarson.gif" alt="Night Example" width="400">
+<div style="display: flex; gap: 20px;">
+  <img src="static/images/nightnormal.gif" alt="Night Example Normal" width="400">
+  <img src="static/images/nightarson.gif" alt="Night Example Arson" sidth="400">
+</div>
 
 <hr/>
 
