@@ -37,7 +37,7 @@ Add two night gif here
 <p> Video Dataset <p>
 
 <p> Examples of EoI from our dataset <p>
-Add figure here 
+<img src="static/images/MRVS_videoseq.png" alt="MRVS VideoSeq" width="800">
 
 <p> Robot Captured Actor-perfromed EoI Long Videos <p>
 
