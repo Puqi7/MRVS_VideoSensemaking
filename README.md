@@ -26,12 +26,12 @@
 
 Add two day gif here
 Add two night gif here 
-<img src="static/images/nightnormal.gif" alt="Night Example Normal" width="400">
-<div style="display: flex; gap: 20px;">
-  <img src="static/images/nightnormal.gif" alt="Night Example Normal" width="400">
-  <img src="static/images/nightarson.gif" alt="Night Example Arson" width="400">
-</div>
-
+<table>
+  <tr>
+    <td><img src="static/images/nightnormal.gif" alt="Night Example Normal" width="400"></td>
+    <td><img src="static/images/nightarson.gif" alt="Night Example Arson" width="400"></td>
+  </tr>
+</table>
 <hr/>
 
 <p> Events-of Interest (EoI) table <p>
