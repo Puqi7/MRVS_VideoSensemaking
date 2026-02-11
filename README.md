@@ -26,6 +26,7 @@
 
 Add two day gif here
 Add two night gif here 
+<img src="static/images/nightarson.gif" alt="Night Example" width="400">
 
 <hr/>
 
