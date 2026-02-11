@@ -25,7 +25,7 @@
 <p>We present an abnormal video in the left side while in the right side we present a normal video from our testbed (video dataset). <p>
 
 <p align="center">
-  <img src="static/images/nightnormal.gif" alt="Night Example Normal" width="400">
+  <img src="static/images/daynormal.gif" alt="Night Example Normal" width="400">
   <img src="static/images/daysuspicious.gif" alt="Night Example Suspicious Package" width="400">
 </p>
 <p align="center">
