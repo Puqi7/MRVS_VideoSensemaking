@@ -30,6 +30,10 @@ Add two night gif here
   <img src="static/images/nightnormal.gif" alt="Night Example Normal" width="400">
   <img src="static/images/nightarson.gif" alt="Night Example Arson" width="400">
 </p>
+<p align="center">
+  <img src="static/images/nightnormal.gif" alt="Night Example Normal" width="400">
+  <img src="static/images/daysuspicious.gif" alt="Night Example Suspicious Package" width="400">
+</p>
 <hr/>
 
 <p> Events-of Interest (EoI) table <p>
