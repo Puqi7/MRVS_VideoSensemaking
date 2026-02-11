@@ -45,7 +45,7 @@ Add robot caprture figure (in the night)
 Add people controlling robot 
 
 <hr/>
-<p> Design Requriments <p>
+<p> Design Requirement<p>
 
 <p> MRVS System <p>
 
