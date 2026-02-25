@@ -18,6 +18,7 @@
   <a href="https://arxiv.org/abs/2602.08882">📄 Paper</a> ·
   <a href="https://huggingface.co/datasets/Puqi7/MRVS_anomaly_long_video_dataset">📦 Dataset</a> ·
   <a href="https://websitefrontend-jhzm.onrender.com/">💻 UI demo</a>
+  
 </p>
 
 <hr/>
@@ -25,12 +26,12 @@
 <p>We present an abnormal video in the left side while in the right side we present a normal video from our testbed (video dataset). <p>
 
 <p align="center">
-  <img src="static/images/daynormal.gif" alt="Night Example Normal" width="400">
-  <img src="static/images/daysuspicious.gif" alt="Night Example Suspicious Package" width="400">
+  <img src="static/images/daynormal.gif" alt="Night Example Normal" width="300">
+  <img src="static/images/daysuspicious.gif" alt="Night Example Suspicious Package" width="300">
 </p>
 <p align="center">
-  <img src="static/images/nightnormal.gif" alt="Night Example Normal" width="400">
-  <img src="static/images/nightarson.gif" alt="Night Example Arson" width="400">
+  <img src="static/images/nightnormal.gif" alt="Night Example Normal" width="300">
+  <img src="static/images/nightarson.gif" alt="Night Example Arson" width="300">
 </p>
 <hr/>
 
