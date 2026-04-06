@@ -312,41 +312,6 @@
 
 
 <!-- Teaser video-->
-<section class="hero teaser">
-  <div class="container is-max-desktop">
-    <div class="hero-body">
-      <div class="teaser-panel">
-        <div class="teaser-copy has-text-centered">
-          <p class="teaser-label">System Demo Video</p>
-          <h2 class="title is-3 teaser-title">MRVS Ground Patrol Footage Playback</h2>
-          <p class="teaser-description">
-            This clip shows a sample patrol video used in MRVS. It can be played directly in the webpage for quick review and demonstration.
-          </p>
-        </div>
-        <div class="publication-banner teaser-video-shell">
-          <div class="teaser-video-bar">
-            <div class="teaser-video-meta">
-              <span class="teaser-video-name">CHI.mp4</span>
-              <span class="teaser-video-badge">Playable in Browser</span>
-            </div>
-            <a class="button is-dark teaser-download-button" href="static/videos/CHI.mp4" download>
-              <span class="icon">
-                <i class="fas fa-download"></i>
-              </span>
-              <span>Download Video</span>
-            </a>
-          </div>
-          <video id="tree" controls playsinline preload="metadata">
-            <source src="static/videos/CHI.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- End teaser video -->
-
 <!-- Paper abstract -->
 <section class="section hero is-light">
   <div class="container is-max-desktop">
@@ -398,9 +363,14 @@
         <div class="column is-four-fifths">
           
           <div class="publication-video">
-            <!-- TODO: Replace with your YouTube video ID -->
-            <iframe src="https://www.youtube.com/embed/JkaxUblCGz0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <video controls playsinline preload="metadata">
+              <source src="static/videos/CHI.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
           </div>
+          <p class="teaser-description video-presentation-caption">
+            MRVS demonstration video embedded directly in the project page for in-browser playback.
+          </p>
         </div>
       </div>
     </div>
@@ -474,12 +444,14 @@
           <span class="copy-text">Copy</span>
         </button>
       </div>
-      <pre id="bibtex-code"><code>@article{YourPaperKey2024,
-  title={Your Paper Title Here},
-  author={First Author and Second Author and Third Author},
-  journal={Conference/Journal Name},
-  year={2024},
-  url={https://your-domain.com/your-project-page}
+      <pre id="bibtex-code"><code>@inproceedings{zhou2026designing,
+  author = {Zhou, Puqi and Asgarov, Ali and Hussain, Aafiya and Park, Wonjoon and Paudyal, Amit and Shrestha, Sameep and Tang, Chia-Wei and Lighthiser, Michael and Hieb, Michael and Xiao, Xuesu and Thomas, Chris and Hong, Sungsoo Ray},
+  title = {Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals},
+  booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
+  year = {2026},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  note = {To appear},
 }</code></pre>
     </div>
 </section>
