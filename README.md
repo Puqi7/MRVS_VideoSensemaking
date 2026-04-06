@@ -40,18 +40,18 @@
 <img src="static/images/eoitable.PNG" alt="EoI Table" width="800">
 
 <hr/>
-<p> Video Dataset <p>
+<a href="https://huggingface.co/datasets/Puqi7/MRVS_anomaly_long_video_dataset">📦 Video Dataset</a> ·
 
 <p> Examples of EoI from our dataset <p>
 <img src="static/images/MRVS_videoseq.png" alt="MRVS VideoSeq" width="800">
 
-<p> Robot Captured Actor-perfromed EoI Long Videos <p>
+<!-- <p> Robot Captured Actor-perfromed EoI Long Videos <p>
 
 Add robot caprture figure (in the night)
-Add people controlling robot 
+Add people controlling robot  -->
 
 <hr/>
-<p> Design Requirement<p>
+<!-- <p> Design Requirement<p>
 
 <p> MRVS System <p>
 
@@ -59,7 +59,7 @@ Add backend figure
 Add result table 
 
 Add front-end gif 
-Add expert figures 
+Add expert figures  -->
 
 
 
